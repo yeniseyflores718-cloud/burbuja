@@ -1,4 +1,4 @@
-# Práctica: Algoritmos de Ordenamiento por Burbuja 🧹✨
+# Práctica: Algoritmos de Ordenamiento por Burbuja
 
 Este proyecto contiene la implementación y comparación del algoritmo de ordenamiento por **Burbuja Tradicional** y **Burbuja Mejorada (Optimizado)** en el lenguaje Java.
 
